@@ -1,3 +1,9 @@
+# NGS 2022
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+This is the repository for the NGS 2022 course.
+
 # Course Template 
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -7,7 +13,7 @@ This is an example repository for a course made up of multiple modules.
 ## Cloning the repository
 To checkout a repository made up of submodules please use
 
-git clone REPO_URL --recursive
+git clone https://github.com/WTAC-NGS/ngs_2022 --recursive
 
 ## Adding modules to the course respository as submodules
 To add a submodule to the repository use
@@ -34,7 +40,7 @@ By default this new submodule will be tracking HEAD of the master branch. If you
 
   `cd igv`
   
-  `git checkout ngs_2020`
+  `git checkout ngs_2022`
   
   `cd ..`
 
@@ -44,4 +50,4 @@ Then you will need to commit the changes and push them
    
    `git commit -m "Added submodule igv"`
    
-   `git push origin master`
+   `git push origin main`
