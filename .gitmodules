@@ -1,0 +1,15 @@
+[submodule "variant_calling"]
+	path = variant_calling
+	url = https://github.com/WTAC-NGS/variant_calling
+[submodule "read_alignment"]
+	path = read_alignment
+	url = https://github.com/WTAC-NGS/read_alignment
+[submodule "data_formats"]
+	path = data_formats
+	url = https://github.com/WTAC-NGS/data_formats
+[submodule "unix"]
+	path = unix
+	url = https://github.com/WTAC-NGS/unix
+[submodule "igv"]
+	path = igv
+	url = https://github.com/WTAC-NGS/igv
